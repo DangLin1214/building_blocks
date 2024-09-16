@@ -1,1 +1,3 @@
-# building_blocks
+# Building_blocks
+
+This repo contains code from the building blocks topic in P8105. 
